@@ -1,0 +1,3 @@
+MNE pyhton library
+numPy library
+matplotlib library
